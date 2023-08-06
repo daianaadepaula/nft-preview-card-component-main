@@ -4,7 +4,7 @@
 
 ## About the project
 
-This is an NFT card design developed with HTML and CSS. Show the image on the screen, with the name and information of the product and user name.
+I developed an NFT display project through an interactive card. Using HTML and CSS, we created the structure of the card with detailed information about each NFT, such as name, artist, price and days left. HTML was employed to define the structure of the card, while CSS was used to style the layout, adding colors, fonts and eye-catching visual effects.
 
 ## Table of contents
 
@@ -24,9 +24,7 @@ This is an NFT card design developed with HTML and CSS. Show the image on the sc
 
 ### Functionalities
 
-- Nft info
-- Nft image
-- Days left
+It is a visually captivating and responsive NFT card that allows users to explore the details of NFTs in an elegant and immersive way.
 
 ## Screenshot
 
