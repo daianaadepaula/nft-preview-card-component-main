@@ -1,24 +1,12 @@
-# Frontend Mentor - NFT preview card component
+# NFT preview card component
 
-![Project image](./design/desktop-preview.jpg)
+<div align="center" >
+  <img src="./design/desktop-preview.jpg" alt="Project image" height="400px">
+</div>
 
 ## About the project
 
 I developed an NFT display project through an interactive card. Using HTML and CSS, we created the structure of the card with detailed information about each NFT, such as name, artist, price and days left. HTML was employed to define the structure of the card, while CSS was used to style the layout, adding colors, fonts and eye-catching visual effects.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Functionalities](#functionalities)
-- [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Installation](#installation)
-  - [Frontend](#frontend)
-- [Author](#author)
-- [License](#license)
-
 
 ## Overview
 
@@ -30,12 +18,16 @@ It is a visually captivating and responsive NFT card that allows users to explor
 
 ### Layout mobile
 
-![Project mobile](./design/mobile-design.jpg)
+<div align="center" >
+  <img src="./design/mobile-design.jpg" alt="Project mobile" height="300px">
+</div>
  
 ### Layout web
 
-![Project desktop](./design/desktop-design.jpg)
-![Project desktop](./design/active-states.jpg)
+<div align="center" >
+  <img src="./design/desktop-design.jpg" alt="Project desktop" width="300px">
+  <img src="./design/active-states.jpg" alt="Project desktop" width="300px">
+</div>
 
 ### Links
 
